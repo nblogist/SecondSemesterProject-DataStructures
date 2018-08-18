@@ -1,0 +1,6 @@
+C:\Users\FURQAN\Desktop\UIT\Projects\DS\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\FURQAN\Desktop\UIT\Projects\DS\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\FURQAN\Desktop\UIT\Projects\DS\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\FURQAN\Desktop\UIT\Projects\DS\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\FURQAN\Desktop\UIT\Projects\DS\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\FURQAN\Desktop\UIT\Projects\DS\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
